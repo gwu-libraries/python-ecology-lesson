@@ -25,7 +25,7 @@ kind: "lesson"
 repository: <USERNAME>/<PROJECT>
 
 # Email address, no mailto:
-email: "team@carpentries.org"
+email: "kerchner@gwu.edu"
 
 # Sites.
 amy_site: "https://amy.software-carpentry.org/workshops"
